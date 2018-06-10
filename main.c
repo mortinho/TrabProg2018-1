@@ -2,14 +2,10 @@
 #include <stdlib.h>
 #include <string.h>
 
+
 #include "funcoesPrincipais.h"
 
-#define DEBUG
-#ifdef DEBUG
 
-#include "funcoesTeste.h"
-
-#endif
 Aluno turma[40];
 
 
@@ -73,6 +69,7 @@ int main(){
 #ifdef DEBUG
            case 11:{
                gerarTurma(turma);
+               mostrarTurma(turma);
            }break;
 #endif
        }

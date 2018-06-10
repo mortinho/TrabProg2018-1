@@ -6,7 +6,6 @@
                    projectFiles="true">
       <itemPath>funcoesAuxiliares.h</itemPath>
       <itemPath>funcoesPrincipais.h</itemPath>
-      <itemPath>funcoesTeste.h</itemPath>
     </logicalFolder>
     <logicalFolder name="SourceFiles"
                    displayName="Arquivos de Código-Fonte"
@@ -46,8 +45,6 @@
       </item>
       <item path="funcoesPrincipais.h" ex="false" tool="3" flavor2="0">
       </item>
-      <item path="funcoesTeste.h" ex="false" tool="3" flavor2="0">
-      </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>
     </conf>
@@ -75,8 +72,6 @@
       <item path="funcoesAuxiliares.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="funcoesPrincipais.h" ex="false" tool="3" flavor2="0">
-      </item>
-      <item path="funcoesTeste.h" ex="false" tool="3" flavor2="0">
       </item>
       <item path="main.c" ex="false" tool="0" flavor2="0">
       </item>

@@ -22,6 +22,14 @@ CND_ARTIFACT_PATH_Release=dist/Release/GNU-Linux/trabalho2018-1
 CND_PACKAGE_DIR_Release=dist/Release/GNU-Linux/package
 CND_PACKAGE_NAME_Release=trabalho2018-1.tar
 CND_PACKAGE_PATH_Release=dist/Release/GNU-Linux/package/trabalho2018-1.tar
+# windebug configuration
+CND_PLATFORM_windebug=Cygwin-Windows
+CND_ARTIFACT_DIR_windebug=dist/windebug/Cygwin-Windows
+CND_ARTIFACT_NAME_windebug=trabprog2018-1
+CND_ARTIFACT_PATH_windebug=dist/windebug/Cygwin-Windows/trabprog2018-1
+CND_PACKAGE_DIR_windebug=dist/windebug/Cygwin-Windows/package
+CND_PACKAGE_NAME_windebug=trabprog2018-1.tar
+CND_PACKAGE_PATH_windebug=dist/windebug/Cygwin-Windows/package/trabprog2018-1.tar
 #
 # include compiler specific variables
 #

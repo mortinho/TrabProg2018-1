@@ -35,10 +35,10 @@ int main(){
     int opcao;
 
     do{
-       opcao = menuPrincipal();
-       printf("\n");
-       system("@cls||clear");
-       switch(opcao){
+        opcao = menuPrincipal();
+        printf("\n");
+        system("@cls||clear");
+        switch(opcao){
            case 1:{
                cadastraAluno(turma);
            }break;
@@ -72,7 +72,7 @@ int main(){
                mostrarTurma(turma);
            }break;
 #endif
-       }
+        }
    }while(opcao != 10);
 
     printf("Programa finalizado.\n");
